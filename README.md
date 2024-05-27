@@ -1,4 +1,4 @@
-# LncRNA_Sub-cellular_Localisation_Prediction_using_Multi-source_Features
+# LncRNA_Sub_cellular_Localisation_Prediction_using_Multi-source_Features
 
 Here in this project we have developed and tested several machine learning models based on multi-source features for the lncRNA sub-cellular localisation prediction. 
 
